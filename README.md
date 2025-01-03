@@ -1,7 +1,7 @@
 # laundy
 currently in progress 
 
-![Linting](https://github.com/github/laundy/actions/workflows/pylint.yml/badge.svg)
+![Linting](https://github.com/ismailooli/laundy/actions/workflows/pylint.yml/badge.svg)
 
 ## Development
 
