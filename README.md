@@ -1,6 +1,8 @@
 # laundy
 currently in progress 
 
+![Linting](https://github.com/github/laundy/actions/workflows/pylint.yml/badge.svg)
+
 ## Development
 
 You will need a `.env` file that has the following contents (to securely store your OpenAI API key):
